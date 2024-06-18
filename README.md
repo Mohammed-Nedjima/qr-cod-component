@@ -22,7 +22,7 @@ The challenge is to build a QR code component that matches the design provided.
 
 ### Screenshot
 
-![](./desktop-result)
+![](./design/desktop-result.png)
 
 ### Links
 
