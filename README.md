@@ -1,16 +1,50 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Welcome! 👋
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Thanks for checking out this front-end coding challenge.
+## Overview
 
+### The challenge
 
-## The challenge
+The challenge is to build a QR code component that matches the design provided.
 
-The perpuse of this challenge is to build out this QR code component and get it looking as close to the design as possible.
+### Screenshot
 
-I used simple Html and Css to solve this challenge. It aquiers a good understanding of layout and poistioning, but over all its an easy problem
+![](./desktop-result)
 
+### Links
 
+- Solution URL: [Github](https://github.com/Mohammed-Nedjima/qr-code-component)
+- Live Site URL: [Github pages](https://mohammed-nedjima.github.io/qr-code-component/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+### What I learned
+
+-Practice semantic Html elements
+-Practice CSS custom properties
+-The usage of max-width propertie
+
+## Author
+
+- Linkedin - [Mohammed Ayoub Nedjima](https://www.linkedin.com/in/mohammed-ayoub-nedjima//profile/kaamiik)
+- Frontend Mentor: - [@Mohammed-Nedjima](https://www.frontendmentor.io/profile/Mohammed-Nedjima)
